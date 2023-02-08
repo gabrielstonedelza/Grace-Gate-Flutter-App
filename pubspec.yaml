@@ -39,12 +39,18 @@ dependencies:
   http:
   get:
   get_storage:
-  badges:
+  badges: ^3.0.2
   url_launcher:
   flutter_local_notifications: ^9.6.0
+  font_awesome_flutter: ^10.1.0
+  connectivity_plus: ^2.3.0
+  internet_connection_checker: ^0.0.1+3
   rxdart:
   dio:
   modal_bottom_sheet:
+  animate_do: ^2.1.0
+  grouped_list: ^5.1.2
+  intl: ^0.18.0
 
 dev_dependencies:
   flutter_test:
